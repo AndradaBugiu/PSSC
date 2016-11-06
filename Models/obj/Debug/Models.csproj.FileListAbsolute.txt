@@ -1,0 +1,5 @@
+C:\Users\Andrada\Documents\GitHub\PSSC-2016-2017\PSSC\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Andrada\Documents\GitHub\PSSC-2016-2017\PSSC\Models\bin\Debug\Models.dll
+C:\Users\Andrada\Documents\GitHub\PSSC-2016-2017\PSSC\Models\bin\Debug\Models.pdb
+C:\Users\Andrada\Documents\GitHub\PSSC-2016-2017\PSSC\Models\obj\Debug\Models.dll
+C:\Users\Andrada\Documents\GitHub\PSSC-2016-2017\PSSC\Models\obj\Debug\Models.pdb
